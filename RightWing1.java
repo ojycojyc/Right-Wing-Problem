@@ -4,8 +4,6 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 /**
  * @author Jia-Ying Olivia Chan
- * ID: 27295847
- * COMP 352-H, Assignment 2, Programming Part 1
  *
  * First solution to the RightWing problem. 
  * For any given array of positive integers, the solution uses multiple recursion to determine if there exist a path leading from the leftmost array position to the last.
